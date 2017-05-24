@@ -1,0 +1,13 @@
+{
+  "name" : "eaatsm",
+  "version" : "0.0.1",
+  "main" : "main.js",
+  "description" : "eaatsm is an electron application built for automating the testing of smartron mobiles",
+  "scripts" :{
+    "start" : "electron ."
+  },
+  "devDependencies" : {
+    "electron" : "1.6.2",
+    "electron-rebuild" : "^1.5.11"
+    }
+}
