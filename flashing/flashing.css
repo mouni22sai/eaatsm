@@ -1,0 +1,43 @@
+body {
+	background-color : #4ABDAC !important;
+}
+.jumbotron {
+	background-color : #FC4A1A !important;
+	color : #DFDCE3 !important;
+	text-align : center;
+	width : 1000px;
+	margin : auto;
+	border-style : solid;
+	border-radius : 10px;
+	border-width : 5px;
+	margin-top : 20px;
+	border-color : #DFDCE3 !important;
+}
+
+.container{
+	margin : auto;
+	text-align : center;
+	color : ;
+}
+
+ul{
+	list-style-type : none;
+}
+li{
+	margin : 10px;
+	padding : 10px;
+	font-size : 30px;
+}
+
+input{
+	padding : 10px;
+	margin-left : 5px;
+	margin-right : 5px;
+}
+button{
+	width : 100px;
+	height : 30px;
+	padding : 20px;
+	margin-left : 5px;
+	margin-right : 5px;
+}
